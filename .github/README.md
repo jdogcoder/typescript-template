@@ -1,1 +1,1 @@
-# csp23
+# typescript-template
