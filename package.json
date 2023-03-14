@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "",
   "main": "src/index.ts",
- "scripts": {
+  "scripts": {
     "start": "ts-node src/index.ts",
     "dev": "nodemon --quiet --watch './**/*.ts' --exec 'ts-node' src/index.ts",
     "lint": "prettier-eslint --write './**/*.ts'",
